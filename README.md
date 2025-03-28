@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikh54&color=64ffda&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=likhonsheikhofficial&color=64ffda&style=flat-square" alt="Profile Views">
 </p>
 
 I'm a passionate developer bridging cutting-edge web technologies with AI innovation. Specializing in building scalable architectures and intelligent systems, I thrive on solving complex challenges through elegant code and machine learning solutions. Currently exploring generative AI models and distributed systems.
@@ -54,19 +54,19 @@ I'm a passionate developer bridging cutting-edge web technologies with AI innova
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikh54&theme=nightowl" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhofficial&theme=nightowl" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikh54&layout=compact&theme=nightowl" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&theme=nightowl" alt="Top Languages">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikh54&theme=react-dark&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhofficial&theme=react-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
 ## 🏆 Featured Projects
 
-[![NeuraForge](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikh54&repo=neuraforge&theme=nightowl)](https://github.com/likhonsheikh54/neuraforge)  
+[![NeuraForge](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=neuraforge&theme=nightowl)](https://github.com/likhonsheikhofficial/neuraforge)
 **Next-gen platform for collaborative AI model development**
 
-[![Astra CMS](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikh54&repo=astra-cms&theme=nightowl)](https://github.com/likhonsheikh54/astra-cms)  
+[![Astra CMS](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=astra-cms&theme=nightowl)](https://github.com/likhonsheikhofficial/astra-cms)
 **Headless CMS built with TypeScript and Cloudflare Workers**
 
 ## ✍️ Recent Articles
