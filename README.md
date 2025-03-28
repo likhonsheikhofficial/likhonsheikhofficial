@@ -66,7 +66,7 @@ I'm a passionate developer bridging cutting-edge web technologies with AI innova
 [![NeuraForge](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=neuraforge&theme=nightowl)](https://github.com/likhonsheikhofficial/neuraforge)
 **Next-gen platform for collaborative AI model development**
 
-[![Astra CMS](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=astra-cms&theme=nightowl)](https://github.com/likhonsheikhofficial/astra-cms)
+[![Astra CMS](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=earnmoneytagbot&theme=nightowl)](https://github.com/likhonsheikhofficial/earnmoneytagbot)
 **Headless CMS built with TypeScript and Cloudflare Workers**
 
 ## ✍️ Recent Articles
