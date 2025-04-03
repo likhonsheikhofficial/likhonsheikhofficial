@@ -1,29 +1,3 @@
-# ⚡ Flash USDT Sender  
-
-[![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=flat-square&color=blue)](https://github.com/likhonsheikhofficial)  
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/flash-usdt-sender?style=social)](https://github.com/your-username/flash-usdt-sender)  
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/flash-usdt-sender?style=social)](https://github.com/your-username/flash-usdt-sender)  
-[![NPM Version](https://img.shields.io/npm/v/flash-usdt-sender?color=green&label=NPM%20Package)](https://www.npmjs.com/package/flash-usdt-sender)  
-[![License](https://img.shields.io/github/license/your-username/flash-usdt-sender)](LICENSE)  
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/BG7BES0pa34?feature=shared)  
-[![Website](https://img.shields.io/badge/Website-Flash%20USDT%20Sender-blue?style=flat-square&logo=vercel)](https://access.flashusdtsender.xyz)  
-
----
-
-## 🚀 Introduction  
-
-🔒 **Flash USDT Sender** is an **ultra-fast, secure, and flexible** Tether (USDT) transfer tool supporting multiple blockchain networks.  
-
-### ✅ Features  
-✔ **Instant Transactions**  
-✔ **End-to-End Encryption**  
-✔ **Multi-Network Support (ERC20, TRC20, BEP20)**  
-✔ **Smart Fee Optimization**  
-✔ **User-Friendly API & CLI**  
-
-![Tether Header Visual](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tether-header-visual%20%281%29-Iccitb5YiKN8Mp4JUIc0qhAnKBV0rc.webp)  
-
----
 
 ## 🌟 Key Features  
 
