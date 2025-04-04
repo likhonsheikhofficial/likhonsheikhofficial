@@ -1,14 +1,18 @@
-# 👋 Hey, I'm Likhon Sheikh
+# <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/logo.svg" width="30" /> Likhon Sheikh | Full-Stack Developer
 
-> Full-stack developer crafting digital experiences that balance form and function
+<div align="center">
+  <img src="https://wallpaperaccess.com/full/983826.jpg" alt="Profile Banner" width="100%" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=flat-square&color=brightgreen)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iikhonsheikh?style=social)](https://twitter.com/iikhonsheikh)
-[![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
+<div align="center">
+  <p><strong>Crafting digital experiences that balance form and function</strong></p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=flat-square&color=brightgreen)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iikhonsheikh?style=social)](https://twitter.com/iikhonsheikh)
+  [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
+</div>
 
----
-
-## 💻 The Tech Stack
+## 💻 Tech Stack
 
 ```javascript
 const likhonSkills = {
@@ -35,65 +39,63 @@ const likhonSkills = {
 };
 ```
 
----
-
 ## 🚀 Featured Projects
 
-### Vasully Goods
-> Modern development tools with cultural relevance
-
-A collection of libraries and tools that make development both technically excellent and culturally engaging. Building software that resonates on multiple levels.
-
-### [Deployer](https://github.com/likhon-developer/Deployer)
-> Generate and deploy any application with DeepSeek and HuggingChat!
-
-An AI-powered deployment tool that streamlines the application generation process using advanced language models. Integrates with DeepSeek and HuggingChat to automatically generate code, structure projects, and deploy applications with minimal human intervention.
-
-### [RecentCoders Space](https://huggingface.co/spaces/likhonsheikh/RecentCoders)
-> Community showcase for emerging developers
-
-A Hugging Face space dedicated to highlighting work from up-and-coming developers, fostering community collaboration, and providing resources for continuous learning in modern web development.
-
-### [ETH-Drainer](https://github.com/likhon-developer/eth-drainer)
-> First non-obfuscated ethereum drainer source code on GitHub
-
-Educational repository demonstrating blockchain security concepts through transparent code. Created for security researchers and developers to understand potential vulnerabilities in cryptocurrency applications.
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&langs_count=7&theme=radical"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/source-code.png" width="60"/>
+        <br />
+        <strong>Vasully Goods</strong>
+        <br />
+        <sub>Modern development tools with cultural relevance</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/>
+        <br />
+        <strong><a href="https://github.com/likhon-developer/Deployer">Deployer</a></strong>
+        <br />
+        <sub>AI-powered deployment with DeepSeek & HuggingChat</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/group.png" width="60"/>
+        <br />
+        <strong><a href="https://huggingface.co/spaces/likhonsheikh/RecentCoders">RecentCoders Space</a></strong>
+        <br />
+        <sub>Community showcase for emerging developers</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/ethereum.png" width="60"/>
+        <br />
+        <strong><a href="https://github.com/likhon-developer/eth-drainer">ETH-Drainer</a></strong>
+        <br />
+        <sub>Educational blockchain security repository</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+## 📊 GitHub Stats & Activity
 
-## 🔍 Where To Find Me
+<div align="center">
+  <a href="https://github.com/likhonsheikhofficial">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
-I work across multiple platforms to keep my projects organized:
+### Weekly Coding Breakdown
 
-- 🌟 **GitHub Accounts**:
-  - Personal: [@likhonsheikhofficial](https://github.com/likhonsheikhofficial)
-  - Development: [@likhon-developer](https://github.com/likhon-developer)
-
-- 🦊 **GitLab**: [@likhonsheikhofficial](https://gitlab.com/likhonsheikhofficial)
-
-- 🌐 **Websites**:
-  - Portfolio: [Likhon.dev](https://likhon.dev)
-  - Development Blog: [Sheikh.codes](https://sheikh.codes)
-
-- 💬 **Social**:
-  - Twitter: [@iikhonsheikh](https://twitter.com/iikhonsheikh)
-  - Telegram: [@likhonsheikh](https://t.me/likhonsheikh)
-  - Dev Community: [@RektDevelopers](https://t.me/RektDevelopers)
-
-- 🤗 **HuggingFace**: [likhonsheikh](https://huggingface.co/likhonsheikh)
-
-- 📫 **Direct Contact**: [likhonsheikh@aol.com](mailto:likhonsheikh@aol.com)
-
----
+```text
+React       ██████████████▓░░░░░░░░░░   58.29 % 
+Node.js     ████████░░░░░░░░░░░░░░░░░   31.53 % 
+C#          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+PHP         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+HTML/CSS    █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
 
 ## 💭 Development Philosophy
 
@@ -111,54 +113,102 @@ function developmentApproach() {
 
 I believe that great software sits at the intersection of technical excellence, user experience, and cultural relevance. Each project is an opportunity to build something that not only works flawlessly but also feels inherently right to its users.
 
----
-
-## 📊 Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-React       ██████████████▓░░░░░░░░░░   58.29 % 
-Node.js     ████████░░░░░░░░░░░░░░░░░   31.53 % 
-C#          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-PHP         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-HTML/CSS    █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌱 Recent Contributions
-
-- **[Project/Repo Name]** - [Brief description of contribution]
-- **[Project/Repo Name]** - [Brief description of contribution]
-- **[Project/Repo Name]** - [Brief description of contribution]
-
----
-
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How We Built Vasully Goods: Combining Technical Excellence with Cultural Relevance](#)
-- [Modern JavaScript Patterns You Should Be Using](#)
-- [Beyond CRUD: Building Truly Interactive Applications](#)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="#">How We Built Vasully Goods: Combining Technical Excellence with Cultural Relevance</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#">Modern JavaScript Patterns You Should Be Using</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#">Beyond CRUD: Building Truly Interactive Applications</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+## 🔍 Find Me Around The Web
+
+<div align="center">
+  <a href="https://github.com/likhonsheikhofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/likhonsheikhofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://likhon.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A2C34?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/iikhonsheikh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://t.me/likhonsheikh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://huggingface.co/likhonsheikh" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAC1C?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+  </a>
+  <a href="mailto:likhonsheikh@aol.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ## 🤝 Open to Collaboration
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out if you want to collaborate on projects related to:
 
-- 🌐 Modern Web Applications
-- 📱 Progressive Web Apps
-- 🎨 UI/UX Innovations
-- 🛠️ Developer Tools & Libraries
-- 🧩 Open Source Contributions
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/html-5.png" width="40"/>
+        <br />
+        <sub>Modern Web Applications</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/progressive-web-app.png" width="40"/>
+        <br />
+        <sub>Progressive Web Apps</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/design.png" width="40"/>
+        <br />
+        <sub>UI/UX Innovations</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/maintenance.png" width="40"/>
+        <br />
+        <sub>Developer Tools & Libraries</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/code-fork.png" width="40"/>
+        <br />
+        <sub>Open Source Contributions</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<hr />
 
-⚡ **Remember**: Great software should be both technically excellent AND culturally relevant.
+<div align="center">
+  <h3>⚡ <strong>Remember</strong>: Great software should be both technically excellent AND culturally relevant. ⚡</h3>
+</div>
 
-![Profile Banner](https://wallpaperaccess.com/full/983826.jpg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=likhonsheikhofficial&color=brightgreen)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" height="40" />
+  <br />
+  <small>Secured by:</small>
+  <br />
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf_secured_logo-myaJraofxyNHJtjSrD3pLImbQ7Selb.png" alt="Secured Logo" height="30" />
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dmca-badge-iI818fjCpryXfXzfu6KsZBlJvrlVJc.png" alt="DMCA Badge" height="30" />
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1342-gitlab-logo_small-uEqGoZW22i1uYsxdUUylsj5Noxopxb.png" alt="GitLab Logo" height="30" />
+</div>
