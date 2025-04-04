@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/logo.svg" width="30" /> Likhon Sheikh | Full-Stack Developer
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/983826.jpg" alt="Profile Banner" width="100%" />
-</div>
+  <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" />
+  <br />
 
 <div align="center">
   <p><strong>Crafting digital experiences that balance form and function</strong></p>
@@ -204,8 +204,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" height="40" />
-  <br />
   <small>Secured by:</small>
   <br />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf_secured_logo-myaJraofxyNHJtjSrD3pLImbQ7Selb.png" alt="Secured Logo" height="30" />
