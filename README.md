@@ -1,8 +1,9 @@
 # <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/logo.svg" width="30" /> Likhon Sheikh | Full-Stack Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" />
-  <br />
+  <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" width="200px" />
+</div>
+
 
 <div align="center">
   <p><strong>সৃজনশীলতা এবং কার্যকারিতার সমন্বয়ে ডিজিটাল অভিজ্ঞতা তৈরি করি</strong></p>
