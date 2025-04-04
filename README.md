@@ -5,14 +5,15 @@
   <br />
 
 <div align="center">
-  <p><strong>Crafting digital experiences that balance form and function</strong></p>
+  <p><strong>সৃজনশীলতা এবং কার্যকারিতার সমন্বয়ে ডিজিটাল অভিজ্ঞতা তৈরি করি</strong></p>
+  <p><em>Crafting digital experiences that balance form and function</em></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=flat-square&color=brightgreen)
   [![Twitter Follow](https://img.shields.io/twitter/follow/iikhonsheikh?style=social)](https://twitter.com/iikhonsheikh)
   [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
 </div>
 
-## 💻 Tech Stack
+## 💫 আমার প্রযুক্তিগত দক্ষতা | My Tech Stack
 
 ```javascript
 const likhonSkills = {
@@ -34,24 +35,24 @@ const likhonSkills = {
   currently: {
     learning: ['Web3', 'Rust', 'AI Integration'],
     reading: 'Clean Architecture by Robert C. Martin',
-    building: 'Vasully Goods - Where Modern Dev Meets Meme Culture'
+    building: 'Vasully Goods - Where Modern Dev Meets Cultural Identity'
   }
 };
 ```
 
-## 🚀 Featured Projects
+## 🚀 প্রমুখ প্রজেক্টসমূহ | Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="background-color: #f0f8ff; border-radius: 10px; padding: 15px;">
         <img src="https://img.icons8.com/color/96/000000/source-code.png" width="60"/>
         <br />
         <strong>Vasully Goods</strong>
         <br />
         <sub>Modern development tools with cultural relevance</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background-color: #f0fff0; border-radius: 10px; padding: 15px;">
         <img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/>
         <br />
         <strong><a href="https://github.com/likhon-developer/Deployer">Deployer</a></strong>
@@ -60,14 +61,14 @@ const likhonSkills = {
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="background-color: #fff0f5; border-radius: 10px; padding: 15px;">
         <img src="https://img.icons8.com/color/96/000000/group.png" width="60"/>
         <br />
         <strong><a href="https://huggingface.co/spaces/likhonsheikh/RecentCoders">RecentCoders Space</a></strong>
         <br />
-        <sub>Community showcase for emerging developers</sub>
+        <sub>Community showcase for emerging South Asian developers</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background-color: #fffacd; border-radius: 10px; padding: 15px;">
         <img src="https://img.icons8.com/color/96/000000/ethereum.png" width="60"/>
         <br />
         <strong><a href="https://github.com/likhon-developer/eth-drainer">ETH-Drainer</a></strong>
@@ -78,7 +79,7 @@ const likhonSkills = {
   </table>
 </div>
 
-## 📊 GitHub Stats & Activity
+## 📊 গিটহাব পরিসংখ্যান | GitHub Stats
 
 <div align="center">
   <a href="https://github.com/likhonsheikhofficial">
@@ -87,7 +88,7 @@ const likhonSkills = {
   </a>
 </div>
 
-### Weekly Coding Breakdown
+### সাপ্তাহিক কোডিং বিশ্লেষণ | Weekly Coding
 
 ```text
 React       ██████████████▓░░░░░░░░░░   58.29 % 
@@ -97,7 +98,7 @@ PHP         ██░░░░░░░░░░░░░░░░░░░░�
 HTML/CSS    █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 
-## 💭 Development Philosophy
+## 💭 উন্নয়ন দর্শন | Development Philosophy
 
 ```javascript
 function developmentApproach() {
@@ -105,37 +106,37 @@ function developmentApproach() {
     userCentric: "Design from the user's perspective first",
     cleanCode: "Readable, maintainable, and scalable architecture",
     continuousLearning: "Technology evolves and so should we",
-    culturalRelevance: "Technical excellence alone isn't enough",
+    culturalIdentity: "Bringing Bangladeshi innovation to global tech",
     workLifeIntegration: "Code at its best comes from minds at their best"
   };
 }
 ```
 
-I believe that great software sits at the intersection of technical excellence, user experience, and cultural relevance. Each project is an opportunity to build something that not only works flawlessly but also feels inherently right to its users.
+I believe that great software sits at the intersection of technical excellence, user experience, and cultural identity. As a Bangladeshi developer, I bring unique perspectives to global technology challenges, creating solutions that resonate with diverse users while maintaining world-class standards.
 
-## 📝 Latest Blog Posts
+## 📝 সাম্প্রতিক ব্লগ পোস্ট | Latest Blog Posts
 
 <div align="center">
-  <table>
-    <tr>
+  <table style="border: 2px solid #006a4e; border-radius: 8px;">
+    <tr style="background-color: #f0f9ff;">
       <td>
         <a href="#">How We Built Vasully Goods: Combining Technical Excellence with Cultural Relevance</a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #fff0f7;">
       <td>
-        <a href="#">Modern JavaScript Patterns You Should Be Using</a>
+        <a href="#">Modern JavaScript Patterns for South Asian Development Teams</a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f0f9ff;">
       <td>
-        <a href="#">Beyond CRUD: Building Truly Interactive Applications</a>
+        <a href="#">Building Digital Products That Bridge Eastern and Western Markets</a>
       </td>
     </tr>
   </table>
 </div>
 
-## 🔍 Find Me Around The Web
+## 🔍 যোগাযোগ | Find Me
 
 <div align="center">
   <a href="https://github.com/likhonsheikhofficial" target="_blank">
@@ -145,7 +146,7 @@ I believe that great software sits at the intersection of technical excellence, 
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="https://likhon.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1A2C34?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-006a4e?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/iikhonsheikh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -161,34 +162,34 @@ I believe that great software sits at the intersection of technical excellence, 
   </a>
 </div>
 
-## 🤝 Open to Collaboration
+## 🤝 সহযোগিতার জন্য | Open to Collaboration
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out if you want to collaborate on projects related to:
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. As a developer from Bangladesh, I bring both global technical expertise and unique cultural insights to every collaboration.
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
         <img src="https://img.icons8.com/color/96/000000/html-5.png" width="40"/>
         <br />
         <sub>Modern Web Applications</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); border-radius: 8px; padding: 12px;">
         <img src="https://img.icons8.com/color/96/000000/progressive-web-app.png" width="40"/>
         <br />
         <sub>Progressive Web Apps</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
         <img src="https://img.icons8.com/color/96/000000/design.png" width="40"/>
         <br />
         <sub>UI/UX Innovations</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); border-radius: 8px; padding: 12px;">
         <img src="https://img.icons8.com/color/96/000000/maintenance.png" width="40"/>
         <br />
         <sub>Developer Tools & Libraries</sub>
       </td>
-      <td align="center">
+      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
         <img src="https://img.icons8.com/color/96/000000/code-fork.png" width="40"/>
         <br />
         <sub>Open Source Contributions</sub>
@@ -197,14 +198,15 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   </table>
 </div>
 
-<hr />
+<hr style="height: 3px; background: linear-gradient(to right, #006a4e, #f42a41);" />
 
 <div align="center">
-  <h3>⚡ <strong>Remember</strong>: Great software should be both technically excellent AND culturally relevant. ⚡</h3>
+  <h3>⚡ <strong>মনে রাখবেন</strong>: উৎকৃষ্ট সফটওয়্যার প্রযুক্তিগতভাবে চমৎকার এবং সাংস্কৃতিকভাবে প্রাসঙ্গিক হওয়া উচিত। ⚡</h3>
+  <p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
 </div>
 
 <div align="center">
-  <small>Secured by:</small>
+  <small>নিরাপদে সুরক্ষিত | Secured by:</small>
   <br />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf_secured_logo-myaJraofxyNHJtjSrD3pLImbQ7Selb.png" alt="Secured Logo" height="30" />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dmca-badge-iI818fjCpryXfXzfu6KsZBlJvrlVJc.png" alt="DMCA Badge" height="30" />
