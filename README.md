@@ -50,16 +50,7 @@
   </table>
 </div>
 
-## 📊 গিটহাব পরিসংখ্যান | GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/likhonsheikhofficial">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-I believe that great software sits at the intersection of technical excellence, user experience, and cultural identity. As a Bangladeshi developer, I bring unique perspectives to global technology challenges, creating solutions that resonate with diverse users while maintaining world-class standards.
 
 ## 🔍 যোগাযোগ | Find Me
 
