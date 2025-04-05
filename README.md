@@ -89,45 +89,6 @@ I believe that great software sits at the intersection of technical excellence, 
   </a>
 </div>
 
-## 🤝 সহযোগিতার জন্য | Open to Collaboration
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. As a developer from Bangladesh, I bring both global technical expertise and unique cultural insights to every collaboration.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
-        <img src="https://img.icons8.com/color/96/000000/html-5.png" width="40"/>
-        <br />
-        <sub>Modern Web Applications</sub>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); border-radius: 8px; padding: 12px;">
-        <img src="https://img.icons8.com/color/96/000000/progressive-web-app.png" width="40"/>
-        <br />
-        <sub>Progressive Web Apps</sub>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
-        <img src="https://img.icons8.com/color/96/000000/design.png" width="40"/>
-        <br />
-        <sub>UI/UX Innovations</sub>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); border-radius: 8px; padding: 12px;">
-        <img src="https://img.icons8.com/color/96/000000/maintenance.png" width="40"/>
-        <br />
-        <sub>Developer Tools & Libraries</sub>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px; padding: 12px;">
-        <img src="https://img.icons8.com/color/96/000000/code-fork.png" width="40"/>
-        <br />
-        <sub>Open Source Contributions</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr style="height: 3px; background: linear-gradient(to right, #006a4e, #f42a41);" />
-
-<div align="center">
   <h3>⚡ <strong>মনে রাখবেন</strong>: উৎকৃষ্ট সফটওয়্যার প্রযুক্তিগতভাবে চমৎকার এবং সাংস্কৃতিকভাবে প্রাসঙ্গিক হওয়া উচিত। ⚡</h3>
   <p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
 </div>
