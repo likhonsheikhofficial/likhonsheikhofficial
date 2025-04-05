@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" width="200px" />
 </div>
 
-
 <div align="center">
   <p><strong>সৃজনশীলতা এবং কার্যকারিতার সমন্বয়ে ডিজিটাল অভিজ্ঞতা তৈরি করি</strong></p>
   <p><em>Crafting digital experiences that balance form and function</em></p>
@@ -11,7 +10,6 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/iikhonsheikh?style=social)](https://twitter.com/iikhonsheikh)
   [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
 </div>
-
 
 ## 🚀 প্রমুখ প্রজেক্টসমূহ | Featured Projects
 
@@ -89,8 +87,8 @@ I believe that great software sits at the intersection of technical excellence, 
   </a>
 </div>
 
-  <h3>⚡ <strong>মনে রাখবেন</strong>: উৎকৃষ্ট সফটওয়্যার প্রযুক্তিগতভাবে চমৎকার এবং সাংস্কৃতিকভাবে প্রাসঙ্গিক হওয়া উচিত। ⚡</h3>
-  <p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
+<h3>⚡ <strong>মনে রাখবেন</strong>: উৎকৃষ্ট সফটওয়্যার প্রযুক্তিগতভাবে চমৎকার এবং সাংস্কৃতিকভাবে প্রাসঙ্গিক হওয়া উচিত। ⚡</h3>
+<p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
 </div>
 
 <div align="center">
