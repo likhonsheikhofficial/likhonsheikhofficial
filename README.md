@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <p><strong>সৃজনশীলতা এবং কার্যকারিতার সমন্বয়ে ডিজিটাল অভিজ্ঞতা তৈরি করি</strong></p>
   <p><em>Crafting digital experiences that balance form and function</em></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=flat-square&color=brightgreen)
@@ -73,7 +72,6 @@
   </a>
 </div>
 
-<h3>⚡ <strong>মনে রাখবেন</strong>: উৎকৃষ্ট সফটওয়্যার প্রযুক্তিগতভাবে চমৎকার এবং সাংস্কৃতিকভাবে প্রাসঙ্গিক হওয়া উচিত। ⚡</h3>
 <p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
 </div>
 
