@@ -61,53 +61,7 @@
   </a>
 </div>
 
-### সাপ্তাহিক কোডিং বিশ্লেষণ | Weekly Coding
-
-```text
-React       ██████████████▓░░░░░░░░░░   58.29 % 
-Node.js     ████████░░░░░░░░░░░░░░░░░   31.53 % 
-C#          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-PHP         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-HTML/CSS    █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-```
-
-## 💭 উন্নয়ন দর্শন | Development Philosophy
-
-```javascript
-function developmentApproach() {
-  return {
-    userCentric: "Design from the user's perspective first",
-    cleanCode: "Readable, maintainable, and scalable architecture",
-    continuousLearning: "Technology evolves and so should we",
-    culturalIdentity: "Bringing Bangladeshi innovation to global tech",
-    workLifeIntegration: "Code at its best comes from minds at their best"
-  };
-}
-```
-
 I believe that great software sits at the intersection of technical excellence, user experience, and cultural identity. As a Bangladeshi developer, I bring unique perspectives to global technology challenges, creating solutions that resonate with diverse users while maintaining world-class standards.
-
-## 📝 সাম্প্রতিক ব্লগ পোস্ট | Latest Blog Posts
-
-<div align="center">
-  <table style="border: 2px solid #006a4e; border-radius: 8px;">
-    <tr style="background-color: #f0f9ff;">
-      <td>
-        <a href="#">How We Built Vasully Goods: Combining Technical Excellence with Cultural Relevance</a>
-      </td>
-    </tr>
-    <tr style="background-color: #fff0f7;">
-      <td>
-        <a href="#">Modern JavaScript Patterns for South Asian Development Teams</a>
-      </td>
-    </tr>
-    <tr style="background-color: #f0f9ff;">
-      <td>
-        <a href="#">Building Digital Products That Bridge Eastern and Western Markets</a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🔍 যোগাযোগ | Find Me
 
@@ -183,5 +137,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <br />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf_secured_logo-myaJraofxyNHJtjSrD3pLImbQ7Selb.png" alt="Secured Logo" height="30" />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dmca-badge-iI818fjCpryXfXzfu6KsZBlJvrlVJc.png" alt="DMCA Badge" height="30" />
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1342-gitlab-logo_small-uEqGoZW22i1uYsxdUUylsj5Noxopxb.png" alt="GitLab Logo" height="30" />
 </div>
