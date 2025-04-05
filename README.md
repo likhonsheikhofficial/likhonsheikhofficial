@@ -11,8 +11,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
 </div>
 
-## 🚀 প্রমুখ প্রজেক্টসমূহ | Featured Projects
-
 <div align="center">
   <table>
     <tr>
@@ -50,9 +48,6 @@
   </table>
 </div>
 
-
-
-## 🔍 যোগাযোগ | Find Me
 
 <div align="center">
   <a href="https://github.com/likhonsheikhofficial" target="_blank">
