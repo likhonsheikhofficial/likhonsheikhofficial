@@ -72,11 +72,9 @@
   </a>
 </div>
 
-<p><em>Great software should be both technically excellent AND culturally relevant.</em></p>
-</div>
+
 
 <div align="center">
-  <small>Secured by:</small>
   <br />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf_secured_logo-myaJraofxyNHJtjSrD3pLImbQ7Selb.png" alt="Secured Logo" height="30" />
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dmca-badge-iI818fjCpryXfXzfu6KsZBlJvrlVJc.png" alt="DMCA Badge" height="30" />
