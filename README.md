@@ -72,7 +72,7 @@
   </a>
 </div>
 
-
+[![Powered by Likhon Sheikh](https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/main/powered-by-likhon.svg)](https://likhon.dev)
 
 <div align="center">
   <br />
