@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/logo.svg" width="30" /> Likhon Sheikh | Full-Stack Developer
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/likhonsheikhofficial/likhonsheikhofficial/54bf37b3639413df6f8b97e9a9bcecdb97152cad/LikhonSheikh.svg" alt="Likhon Sheikh SVG" width="200px" />
 </div>
@@ -14,32 +12,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhofficial?style=social)](https://github.com/likhonsheikhofficial)
 </div>
 
-## 💫 আমার প্রযুক্তিগত দক্ষতা | My Tech Stack
-
-```javascript
-const likhonSkills = {
-  frontend: {
-    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
-    frameworks: ['React', 'Redux', 'Next.js', 'Tailwind CSS'],
-    design: ['Figma', 'Adobe XD', 'Responsive Design', 'UI/UX Principles'],
-  },
-  backend: {
-    languages: ['Node.js', 'PHP', 'C#'],
-    frameworks: ['Express', 'Sails.js', 'ASP.NET', 'Laravel'],
-    databases: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis'],
-  },
-  devOps: {
-    cloud: ['AWS', 'Azure', 'Vercel', 'Netlify'],
-    tools: ['Docker', 'GitHub Actions', 'GitLab CI/CD', 'Jenkins'],
-    practices: ['CI/CD', 'Infrastructure as Code', 'Microservices'],
-  },
-  currently: {
-    learning: ['Web3', 'Rust', 'AI Integration'],
-    reading: 'Clean Architecture by Robert C. Martin',
-    building: 'Vasully Goods - Where Modern Dev Meets Cultural Identity'
-  }
-};
-```
 
 ## 🚀 প্রমুখ প্রজেক্টসমূহ | Featured Projects
 
