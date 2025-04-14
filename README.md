@@ -25,6 +25,4 @@
   
   <br />
   <br />
-  
-  <sub>Powered by <img src="SheikhOS.svg.svg" width="15"> SheikhOS</sub>
 </div>
