@@ -23,19 +23,6 @@
 
 
   
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=another-project&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=another-project&theme=buefy&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=another-project&theme=radical&hide_border=true" />
-  </picture>
-</div>
-
 
 ---
 
