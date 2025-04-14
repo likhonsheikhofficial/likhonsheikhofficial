@@ -44,7 +44,6 @@ Based in Bangladesh, I specialize in building robust applications using modern t
   <img src="ict-sustainable-v2.png" alt="ICT Sustainable Award" width="80" />
   <img src="Manab-Kallan-Padak-v2.png" alt="Manab Kallan Padak" width="80" />
   <img src="witsa-v2-2048x1410.png" alt="WITSA Award" width="80" />
-  <img src="iub_v2.png" alt="IUB Award" width="80" />
 </div>
 
 ## 🤝 Trusted By
