@@ -3,28 +3,6 @@
 <div align="center">
   <img src="LikhonSheikh.svg" alt="Likhon Sheikh" width="200">
   
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;SEO+Specialist;Blockchain+Security+Expert" />
-  </h3>
-
-  <p>
-    <a href="https://twitter.com/likhon_shk">
-      <img src="https://img.shields.io/twitter/follow/likhon_shk?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://github.com/likhonsheikhofficial">
-      <img src="https://img.shields.io/github/followers/likhonsheikhofficial?style=for-the-badge&logo=github&color=181717" alt="GitHub">
-    </a>
-    <a href="https://yourwebsite.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://t.me/yourusername">
-      <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-  </p>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=for-the-badge&color=blueviolet" alt="Profile views" />
@@ -50,21 +28,6 @@ Based in Bangladesh, I specialize in building robust applications using modern t
   - 💬 Ask me about **React, Node.js, or SEO strategies**
   - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 </details>
-
-## 🚀 Skills & Technologies
-
-```javascript
-const skills = {
-  frontend: ['React', 'Redux', 'JavaScript', 'HTML5', 'CSS3', 'TypeScript'],
-  backend: ['Node.js', 'Sails.js', 'PHP', 'C#', 'ASP.NET', 'Express'],
-  database: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis'],
-  devOps: ['AWS', 'Docker', 'Git', 'CI/CD', 'Firebase'],
-  specialties: ['SEO', 'Performance Optimization', 'Security', 'Blockchain']
-};
-
-// Currently focusing on
-skills.currentFocus = ['React', 'Node.js', 'SEO', 'Blockchain Security'];
-```
 
 <div align="center">
   <table border="0">
@@ -101,20 +64,6 @@ skills.currentFocus = ['React', 'Node.js', 'SEO', 'Blockchain Security'];
   </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=radical&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=buefy&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=likhonsheikhofficial&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </picture>
   
   <br />
   
