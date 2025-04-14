@@ -1,8 +1,3 @@
-  <img src="LikhonSheikh.svg" alt="Likhon Sheikh" width="200">
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</div>
-  
 ## 🏆 Awards & Recognition
 <div align="center">
   <img src="SDG-Digital-GameChangers-Award-v2.png" alt="SDG Digital GameChangers Award" width="80" />
