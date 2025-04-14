@@ -21,20 +21,7 @@
   <img src="witsa-v2-2048x1410.png" alt="WITSA Award" width="80" />
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=project-name&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=project-name&theme=buefy&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhofficial&repo=project-name&theme=radical&hide_border=true" />
-  </picture>
   
   <picture>
     <source 
