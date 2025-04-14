@@ -8,91 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
 
-<br/>
-
-## 💫 About Me
-
-> *"Crafting digital experiences that balance form and function."*
-
-I'm a passionate developer and digital strategist with a focus on creating impactful solutions. My work spans web development, blockchain security, and community-driven projects, blending technical expertise with a commitment to innovation.
-
-Based in Bangladesh, I specialize in building robust applications using modern technologies while implementing advanced SEO techniques to ensure maximum visibility and engagement.
-
-<details>
-  <summary>🧐 More about me</summary>
-  <br>
-  
-  - 🔭 I'm currently working on **innovative web solutions**
-  - 🌱 I'm currently learning **advanced blockchain security**
-  - 👯 I'm looking to collaborate on **open source projects**
-  - 💬 Ask me about **React, Node.js, or SEO strategies**
-  - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
-</details>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/-Sails.js-0072C6?style=for-the-badge&logo=sails.js&logoColor=white" alt="Sails.js" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
-        <img src="https://img.shields.io/badge/-SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-  
-  <br />
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhofficial&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhofficial&theme=buefy&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhofficial&theme=radical&hide_border=true" />
-  </picture>
-  
-  <br />
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&theme=buefy&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhofficial&layout=compact&theme=radical&hide_border=true" />
-  </picture>
-</div>
 
 ## 🏆 Awards & Recognition
 
@@ -134,21 +49,6 @@ Based in Bangladesh, I specialize in building robust applications using modern t
   </picture>
 </div>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhofficial&custom_title=Likhon%20Sheikh's%20Contribution%20Graph&theme=tokyo-night&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhofficial&custom_title=Likhon%20Sheikh's%20Contribution%20Graph&theme=minimal&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhofficial&custom_title=Likhon%20Sheikh's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-  </picture>
-</details>
 
 ## 🤝 Trusted By
 
@@ -183,25 +83,7 @@ Based in Bangladesh, I specialize in building robust applications using modern t
   </table>
 </div>
 
-## 📫 Let's Connect
 
-<div align="center">
-  <a href="https://twitter.com/likhon_shk">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
 
 ---
 
