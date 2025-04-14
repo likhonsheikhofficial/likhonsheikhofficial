@@ -1,15 +1,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <div align="center">
   <img src="LikhonSheikh.svg" alt="Likhon Sheikh" width="200">
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhofficial&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
-
-
+  
 ## 🏆 Awards & Recognition
-
 <div align="center">
   <img src="SDG-Digital-GameChangers-Award-v2.png" alt="SDG Digital GameChangers Award" width="80" />
   <img src="public-administration-award-v2.png" alt="Public Administration Award" width="80" />
@@ -19,10 +15,6 @@
   <img src="Manab-Kallan-Padak-v2.png" alt="Manab Kallan Padak" width="80" />
   <img src="witsa-v2-2048x1410.png" alt="WITSA Award" width="80" />
 </div>
-
-
-  
-
 ---
 
 <div align="center">
