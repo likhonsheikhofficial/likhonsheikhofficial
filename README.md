@@ -50,41 +50,6 @@
 </div>
 
 
-## 🤝 Trusted By
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="BRAC-Bank.webp" alt="BRAC Bank" width="80" />
-        <img src="Bkash (1).webp" alt="Bkash" width="80" />
-        <img src="Development-associates-logo-for-website-11.png" alt="Development Associates" width="80" />
-        <img src="IML_logo (1).png" alt="IML" width="80" />
-      </td>
-      <td align="center">
-        <img src="magpie-logo-png-transparent.png" alt="Magpie" width="80" />
-        <img src="btmlogo.png" alt="BTM" width="80" />
-        <img src="google_v3.png" alt="Google" width="80" />
-        <img src="a2i-Logoset-100px.png" alt="a2i" width="80" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="kaggle.png" alt="Kaggle" width="80" />
-        <img src="bitdefender_antivirusguide-logo.svg" alt="Bitdefender" width="80" />
-        <img src="norton_antivirusguide-logo.svg" alt="Norton" width="80" />
-      </td>
-      <td align="center">
-        <img src="panda_antivirusguide-logo.svg" alt="Panda" width="80" />
-        <img src="surfshark-antivirus_antivirusguide-logo.svg" alt="Surfshark" width="80" />
-        <img src="659d8cf9e1fe4d70c313c46d_shipley logo.png" alt="Shipley" width="80" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 ---
 
 <div align="center">
