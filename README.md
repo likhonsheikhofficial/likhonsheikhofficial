@@ -2,7 +2,11 @@
 
 !
 
-<h1 align="center"><img src="https://media.giphy.com/media/hpXdHPfFIU9w6sGrOJ/giphy.gif" width="50px" style="max-width: 100%;"> Hey there, I'm 𝓛𝓲𝓴𝓱𝓸𝓷 𝓢𝓱𝓮𝓲𝓴𝓱</h1>
+<div align="center">
+
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268487157-a1c73ca6-8427-42da-9bda-4b18e04f02d4.png)
+
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;">  Hey there, I'm 𝓛𝓲𝓴𝓱𝓸𝓷 𝓢𝓱𝓮𝓲𝓴𝓱</h1>
 
 As a **Full-Stack Developer & SEO Specialist** based in Austin, Texas<br/>Passionate about crafting scalable web apps, securing blockchain ecosystems, and exploring the art of ethical hacking
 
